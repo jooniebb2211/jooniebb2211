@@ -1,16 +1,19 @@
-## Hi there 👋
+## About Me
 
-<!--
-**jooniebb2211/jooniebb2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm jooniebb2211
 
-Here are some ideas to get you started:
+A dreamer with a deep love for science, data, and the stars.  
+Currently navigating my way into the world of Data Science, with a vision to study at Oxford University and work at NASA one day.  
+I believe that passion, purpose, and persistence can open any door — no matter how far the stars may seem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests blend the technical and the soulful:  
+- Data Science & Machine Learning  
+- Astronomy & Space Exploration  
+- Creative Coding & Visualization  
+- Art, Classical Music, and Philosophy  
+- Exploring ancient civilizations & universal mysteries
+
+I’m here to build, learn, and connect — one line of code at a time.
+git add README.md
+git commit -m "Add initial README"
+git push origin main
